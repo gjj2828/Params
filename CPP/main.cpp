@@ -1,3 +1,11 @@
+/****************************************************************
+ * Project: FormatString
+ * File: main.cpp
+ * Create Date: 2020/04/08
+ * Author: Gao Jiongjiong
+ * Descript: Variable parameter
+****************************************************************/
+
 #include <iostream>
 #include <stdarg.h>
 #include <initializer_list>

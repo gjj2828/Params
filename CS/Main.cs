@@ -1,4 +1,12 @@
-﻿using System;
+﻿/****************************************************************
+ * Project: FormatString
+ * File: Main.cs
+ * Create Date: 2020/04/08
+ * Author: Gao Jiongjiong
+ * Descript: Variable parameter
+****************************************************************/
+
+using System;
 class MainClass
 {
     public static void Main(string[] args) {
